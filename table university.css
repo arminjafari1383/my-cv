@@ -1,0 +1,64 @@
+@font-face {
+   font-family: IranNastaliq;
+   src: url(./IranNastaliq.ttf);
+}
+.table
+{
+   width: 100%;
+   height: 100vh;
+   background-color: aquamarine;
+   background-image: url(./download.jpg);
+   background-repeat:no-repeat ;
+   background-size: cover;
+   font-size: 45px;
+}
+.roz-ha{
+   color: aqua;
+   text-align: center;
+   width: 50px;
+   height:50px;   
+}
+.defransel{
+   text-decoration-line: overline;
+   color: gold;
+   text-align: center;
+   width: 50px;
+   height: 50px;
+}
+.math-2{
+   text-decoration-line: overline;
+   color: yellow;
+   text-align: center;
+   width: 50px;
+   height: 50px;
+}
+.begeneir-programmer{
+   text-decoration-line:overline ;
+   color: chartreuse;
+   text-align: center;
+   width: 50px;
+   height: 50px;
+}
+.advanced-programmer{
+   text-decoration-line: overline;
+   color: chocolate;
+   text-align: center;
+   width: 50px;
+   height: 50px;
+}
+.workshop-computer{
+   text-decoration-line: overline ;
+   color:coral;
+   text-align: center;
+   width: 50px;
+   height: 50px;
+
+}
+.discreate-mathmathe{
+   text-decoration-line: overline;
+   color:lightblue;
+   text-align: center;
+   width: 50px;
+   height: 50px;
+}
+
